@@ -1,3 +1,4 @@
+// css code
 const animals = {
   lion: {
     name: "Lion",
